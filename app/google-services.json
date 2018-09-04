@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "623211029743",
+    "firebase_url": "https://hatta2538-c709a.firebaseio.com",
+    "project_id": "hatta2538-c709a",
+    "storage_bucket": "hatta2538-c709a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623211029743:android:02b15fc6a6a10dc6",
+        "android_client_info": {
+          "package_name": "hatta.test.dk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623211029743-qr4edudeld7gbdm4lgi3n2trvraqt228.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hatta.test.dk",
+            "certificate_hash": "9eb5a9bc872c12282ad7b4872ad51959ad37b488"
+          }
+        },
+        {
+          "client_id": "623211029743-ebijkqesoqpq4jimdsebn8ii4tvdio15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvf5cDigXFPTfijPDjavsh3zX_sxfCnas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623211029743-ebijkqesoqpq4jimdsebn8ii4tvdio15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
